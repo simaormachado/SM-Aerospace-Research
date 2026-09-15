@@ -1,2 +1,23 @@
-# SM-Aerospace-Research
-Independent aerospace engineering & experimental research.
+# SM Aerospace Research
+
+**Independent Aerospace Engineering & Experimental Research**
+
+A long-term personal project focused on learning aerospace engineering through theory, simulation, design, experimentation and iteration.
+
+## Current Project
+
+### SMAR-001 — Experimental Glider
+
+Designing, simulating, building and testing a small experimental glider while investigating aerodynamic performance and stability.
+
+## Method
+
+Learn → Simulate → Design → Build → Test → Analyse → Improve
+
+## Status
+
+🟡 In progress
+
+## Started
+
+15 September 2026
