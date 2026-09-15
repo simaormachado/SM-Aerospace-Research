@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Obsidian (vault lives separately, but ignore if ever copied in)
+.obsidian/
+
+# Temp / backup files
+*.tmp
+*.bak
+~$*
