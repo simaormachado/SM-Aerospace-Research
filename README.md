@@ -14,6 +14,11 @@ Designing, simulating, building and testing a small experimental glider while in
 
 Learn → Simulate → Design → Build → Test → Analyse → Improve
 
+## Conventions
+
+- **Units:** SI (metric)
+- **Engineering Journal:** full session-by-session logs live in Obsidian (daily/per-session). This repo's `Engineering Journal/` folder holds periodic (weekly) summaries only.
+
 ## Status
 
 🟡 In progress
