@@ -14,6 +14,10 @@ Designing, simulating, building and testing a small experimental glider while in
 
 Learn → Simulate → Design → Build → Test → Analyse → Improve
 
+## Methodology note
+
+Project structure, templates, documentation organisation, and repository setup were developed with AI assistance. All research, calculations, designs, experiments, measurements, and analysis are my own work.
+
 ## Conventions
 
 - **Units:** SI (metric)
